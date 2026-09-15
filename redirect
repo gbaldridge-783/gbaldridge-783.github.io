@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Redirecting...</title>
+    <!-- 1. The automatic redirect (0 seconds delay) -->
+    <meta http-equiv="refresh" content="0; URL=https://georgebaldridgeofficial.com/">
+    <!-- 2. Tells search engines the new URL is the main one -->
+    <link rel="canonical" href="https://yournewpage.com/">
+</head>
+<body>
+    <!-- 3. Fallback link if the automatic redirect fails -->
+    <h1>Redirecting...</h1>
+    <p>If you are not redirected automatically, follow this <a href="https://yournewpage.com/">link to our new website</a>.</p>
+</body>
+</html>
